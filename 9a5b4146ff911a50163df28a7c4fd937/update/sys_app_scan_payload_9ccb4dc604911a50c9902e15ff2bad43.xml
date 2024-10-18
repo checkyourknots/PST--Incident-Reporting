@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>1928826ae6bc96347a97ee8d8b6c52e8a9ea11e603e90fc256a6c55a2a470cfc</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0a5bc50619911a503da8950d75be559c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="">!!!app_sys_id!!!</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_355!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><target_name>topic</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></serialized_record>
+        <source_class>sys_scope_privilege</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>topic</source_name>
+        <source_sys_id>04e5c94622511a50f592dbf9af3c7ef3</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:36:08</sys_created_on>
+        <sys_id>9ccb4dc604911a50c9902e15ff2bad43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_scope_privilege</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_scan_payload_9ccb4dc604911a50c9902e15ff2bad43</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:36:08</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

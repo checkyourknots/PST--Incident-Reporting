@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>ux_route_transform_370</name>
+        <original_value>now.x_snc_pub_sub_in_0-program-name-dhs-service-desk.*</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>0a5bc50619911a503da8950d75be559c</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:36:11</sys_created_on>
+        <sys_id>c9cb8dc6cb911a50a69ea6c6ef54797a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ux_route_transform_370</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_scan_variable_c9cb8dc6cb911a50a69ea6c6ef54797a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:36:11</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Route Transform">82ee7dd20f3130102e1c9ddca8767ee9</type>
+        <variable_hash>f06777d5fc7a4511693d7ed0625f1abc397dd6e9685a675d3aae9d0ee7080dca</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

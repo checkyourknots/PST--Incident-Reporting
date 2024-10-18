@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_detail">
+    <sys_app_template_detail action="INSERT_OR_UPDATE">
+        <additional_uses/>
+        <author>Service-now.com</author>
+        <data_image/>
+        <detailed_description/>
+        <function_type_list/>
+        <header_background_color/>
+        <header_image/>
+        <hero_image_1/>
+        <hero_image_2/>
+        <hero_image_3/>
+        <how_was_built/>
+        <icon>c45bc506ff911a50163df28a7c4fd9d9</icon>
+        <metadata_list/>
+        <schema_image/>
+        <short_description>Submit, Review and Process Incidents </short_description>
+        <sys_class_name>sys_app_template_detail</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:34:27</sys_created_on>
+        <sys_id>6f5b8146ff911a50163df28a7c4fd958</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_template_detail_6f5b8146ff911a50163df28a7c4fd958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:34:27</sys_updated_on>
+        <template display_value="Pub Sector - Incident Reporting">cf5b414680911a50cea9405d32bec0c1</template>
+    </sys_app_template_detail>
+    <sys_translated_text action="delete_multiple" query="documentkey=6f5b8146ff911a50163df28a7c4fd958"/>
+</record_update>

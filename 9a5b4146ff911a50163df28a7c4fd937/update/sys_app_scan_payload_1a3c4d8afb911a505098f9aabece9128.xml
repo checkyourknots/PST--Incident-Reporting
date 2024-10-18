@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>2bb44b781ef34232b711a950ccd63ec3ddbb0963ac7ca3f5493c26f1ccd7c8f8</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0a5bc50619911a503da8950d75be559c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>New_CWIP_Application_x_snc_pub_sub_hh_0_x_snc_pub_sub_in_0_!!!scope_name!!!</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1280!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><title>New CWIP Application (x_snc_pub_sub_hh_0) (x_snc_pub_sub_in_0) (!!!scope_name!!!</title><user/></sys_ui_view></record_update>]]></serialized_record>
+        <source_class>sys_ui_view</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>New CWIP Application (x_snc_pub_sub_hh_0) (x_snc_pub_sub_in_0)</source_name>
+        <source_sys_id>bfd5c946d2511a50ed8e911ea511a889</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:38:12</sys_created_on>
+        <sys_id>1a3c4d8afb911a505098f9aabece9128</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ui_view</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_scan_payload_1a3c4d8afb911a505098f9aabece9128</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:38:12</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

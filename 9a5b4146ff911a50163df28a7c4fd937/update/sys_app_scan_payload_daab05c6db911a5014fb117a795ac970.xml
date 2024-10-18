@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>aac67f29356ac769152e9a492420d0c9ab5f4822158c7850c51add78e266bb24</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0a5bc50619911a503da8950d75be559c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="">!!!sys_id_3!!!</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_195!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_embedded_help_role></record_update>]]></serialized_record>
+        <source_class>sys_embedded_help_role</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>84e50d463a511a50b1711782a493fc55</source_name>
+        <source_sys_id>08e50d4669511a50db586e24d718b80c</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:35:44</sys_created_on>
+        <sys_id>daab05c6db911a5014fb117a795ac970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_embedded_help_role</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_scan_payload_daab05c6db911a5014fb117a795ac970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:35:44</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

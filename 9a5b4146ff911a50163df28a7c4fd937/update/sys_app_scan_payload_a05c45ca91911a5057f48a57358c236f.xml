@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>877ee4e9deab4a5b652b3c6fd814acfae99e02be20361a9e1c67a74dd15d2d64</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0a5bc50619911a503da8950d75be559c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Simple List</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1355!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=e85c45caff911a50163df28a7c4fd969"/></record_update>]]></serialized_record>
+        <source_class>sys_ux_screen_type</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>Simple List</source_name>
+        <source_sys_id>7fd5c946af511a501da0fa2a4624dc0f</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:38:37</sys_created_on>
+        <sys_id>a05c45ca91911a5057f48a57358c236f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_screen_type</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_scan_payload_a05c45ca91911a5057f48a57358c236f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:38:37</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

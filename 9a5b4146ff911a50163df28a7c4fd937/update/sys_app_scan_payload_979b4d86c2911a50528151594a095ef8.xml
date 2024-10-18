@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>5833ce33a9fd56f0eb62fe8c888e8aa15b23ba93987ad831f9f2587b29662a4c</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0a5bc50619911a503da8950d75be559c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>200</order><published_ref/><question display_value="">!!!sys_id_8!!!</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_153!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><text>Delete an existing Service Desk Service</text><value>delete_an_existing_service_desk_service</value></question_choice><fx_price action="delete_multiple" query="id=df9b4d86ff911a50163df28a7c4fd9bb"/></record_update>]]></serialized_record>
+        <source_class>question_choice</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>Delete an existing Service Desk Service</source_name>
+        <source_sys_id>c8e50d4614511a50fc04d3271bdcaa39</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:35:32</sys_created_on>
+        <sys_id>979b4d86c2911a50528151594a095ef8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>question_choice</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_scan_payload_979b4d86c2911a50528151594a095ef8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:35:32</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

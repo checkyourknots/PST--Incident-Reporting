@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>c04e016a5a7d4eea97794e8331bfe18c8457f44ecd9f2933a88c28c544fec5b3</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0a5bc50619911a503da8950d75be559c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config/><description/><extension_point/><fields>uuid</fields><icon/><name>KPI Details</name><optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>ac_kpi_details</route_type><screen_type display_value="">!!!sys_id_1283!!!</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1284!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=2a3c4d8aff911a50163df28a7c4fd940"/></record_update>]]></serialized_record>
+        <source_class>sys_ux_app_route</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>KPI Details</source_name>
+        <source_sys_id>73d5c9462e511a503a008869e428fb1b</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:38:13</sys_created_on>
+        <sys_id>6e3c4d8afe911a50762f7bbfe4e04268</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_app_route</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_scan_payload_6e3c4d8afe911a50762f7bbfe4e04268</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:38:13</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

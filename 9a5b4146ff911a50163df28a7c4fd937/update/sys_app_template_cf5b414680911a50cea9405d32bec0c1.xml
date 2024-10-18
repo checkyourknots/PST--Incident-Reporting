@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template">
+    <sys_app_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <create_app>true</create_app>
+        <flow display_value="Application Template - Pub Sector - Incident Reporting - 2024-10-18 14:34:25">4f5b4146ff911a50163df28a7c4fd9e7</flow>
+        <name>Pub Sector - Incident Reporting</name>
+        <referenced_table>sys_app</referenced_table>
+        <snapshot>true</snapshot>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <sys_class_name>sys_app_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 14:34:25</sys_created_on>
+        <sys_id>cf5b414680911a50cea9405d32bec0c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pub Sector - Incident Reporting</sys_name>
+        <sys_package display_value="Pub Sector - Incident Reporting" source="x_snc_pub_sector_0">9a5b4146ff911a50163df28a7c4fd937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Incident Reporting">9a5b4146ff911a50163df28a7c4fd937</sys_scope>
+        <sys_update_name>sys_app_template_cf5b414680911a50cea9405d32bec0c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 14:34:25</sys_updated_on>
+        <type display_value="Payload &amp; Map">955f08a05b03101083f30f216581c740</type>
+        <ux_framework_component display_value="sn-application-template-wizard">1ecf9a0e28e96e12a39fd11c51397fa4</ux_framework_component>
+    </sys_app_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf5b414680911a50cea9405d32bec0c1"/>
+</record_update>
